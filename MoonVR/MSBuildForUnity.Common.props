@@ -2,8 +2,8 @@
   <PropertyGroup>
     <MSBuildForUnityVersion>0.8.3</MSBuildForUnityVersion>
     
-    <MSBuildForUnityGeneratedOutputDirectory>C:\Users\AJ Bond\Dev\SUITS\MoonVR\MSBuild\Projects</MSBuildForUnityGeneratedOutputDirectory>
-    <UnityProjectAssetsPath>C:\Users\AJ Bond\Dev\SUITS\MoonVR\Assets</UnityProjectAssetsPath>
+    <MSBuildForUnityGeneratedOutputDirectory>A:\Repository\12th-Eclipse\MoonVR\MSBuild\Projects</MSBuildForUnityGeneratedOutputDirectory>
+    <UnityProjectAssetsPath>A:\Repository\12th-Eclipse\MoonVR\Assets</UnityProjectAssetsPath>
     <MSBuildForUnityDefaultOutputPath>$(UnityProjectAssetsPath)\Dependencies</MSBuildForUnityDefaultOutputPath>
     
     <UnityCurrentPlatform>WindowsStandalone64</UnityCurrentPlatform>
